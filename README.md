@@ -2,17 +2,15 @@
 # Hello, I'm Lance Andala
 <a href="https://linkedin.com/in/lance-andala-75303b281/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Brief Introduction 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+With a recent certification of Google Professional Cybersecurity Course, I am filled with zest to leverage my technical expertise to protect critical infrastructure and people's personal data. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cyberspace has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
